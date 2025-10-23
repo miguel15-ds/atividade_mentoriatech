@@ -8,8 +8,8 @@ Repositório criado para a Primeira Avaliação da disciplina Mentoria Tech sobr
 
 ## 👨‍💻 Aluno
 
-*   **Nome:** `[SEU NOME COMPLETO]`
-*   **Matrícula:** `[SUA MATRÍCULA]`
+*   **Nome:** `Miguel Arthur`
+*   **Email:** `oliveradanilo149@gmail.com`
 
 ---
 
@@ -120,4 +120,5 @@ Após o primeiro envio, use este fluxo mais simples para enviar suas atualizaç�
     ```bash
     git push origin main
     ```
+
 #atividade_mentoriatech
